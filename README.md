@@ -9,4 +9,5 @@ A list of resources related to health data science, population health and clinic
 4. [Machine Learning-based Causal Inference Tutorial](https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/)
 
 ## Open datasets
-1. 
+1. [NHS England Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
+2. [Fingertips | Public health data](https://fingertips.phe.org.uk/)
