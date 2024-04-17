@@ -1,4 +1,4 @@
-# Health-data-science-resources
+# Health Data Science Resources
 A list of resources related to health data science, population health and clinical data science. 
 
 ## R statistics
