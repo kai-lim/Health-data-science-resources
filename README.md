@@ -28,6 +28,7 @@ A list of resources related to health data science, population health and clinic
   * Modeling ordinal data
   * Modeling proportions data (in the 0-1 interval)
 
+2. [BMJ Research Methods and Reporting](https://www.bmj.com/research/research-methods-and-reporting)
 
 
 
