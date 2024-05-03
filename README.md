@@ -31,6 +31,10 @@ A list of resources related to health data science, population health and clinic
 2. [BMJ Research Methods and Reporting](https://www.bmj.com/research/research-methods-and-reporting)
 
 
+## AI and LLM
+1. [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+2. [Open AI's paper: Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/pdf/2203.02155)
+  - Summary [here]()
 
 
 
