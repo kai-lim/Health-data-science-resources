@@ -23,6 +23,7 @@ A list of resources related to health data science, population health and clinic
 1. [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 2. [Open AI's paper: Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/pdf/2203.02155)
   - Summary [here](https://github.com/kai-lim/Health-data-science-resources/blob/6631d13b7e0e2c101f14d85ec8d700635d952cd0/AI%20and%20LLM/Training%20Language%20Models%20to%20Follow%20Instructions%20with%20Human%20Feedback.md)
+3. [Using LLM as Judge](https://arxiv.org/abs/2306.05685)
 
 
 
