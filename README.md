@@ -29,6 +29,7 @@ A list of resources related to health data science, population health and clinic
   * Modeling proportions data (in the 0-1 interval)
 
 2. [BMJ Research Methods and Reporting](https://www.bmj.com/research/research-methods-and-reporting)
+3. [30 pharmacoepidemiology must-reads](https://www.linkedin.com/pulse/30-pharmacoepidemiology-must-reads-anton-pottegård/)
 
 
 ## AI and LLM
