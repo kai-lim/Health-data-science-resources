@@ -14,21 +14,7 @@ A list of resources related to health data science, population health and clinic
 3. [WHO GLobal Health Observatory](https://www.who.int/data/gho)
 
 ## Reading List
-1. [Biostatistics reading list](https://github.com/JB-Statistical-Consulting/biostatistics) by Justin Belair, covering topics such as:
-  * Hypothesis Testing
-  * Misinterpretations of p-values, power analysis, and other concepts
-  * Design of Experiments
-  * Lord's Paradox
-  * Philosophical Questions
-  * Classics
-  * Missing Data
-  * Causal Inference
-  * Epidemiology
-  * Bradford Hill Criteria And Their Legacy
-  * Time-series Models
-  * Modeling ordinal data
-  * Modeling proportions data (in the 0-1 interval)
-
+1. [Biostatistics reading list](https://github.com/JB-Statistical-Consulting/biostatistics) by Justin Belair, covering topics such as: Hypothesis Testing, Misinterpretations of p-values, power analysis, and other concepts, Design of Experiments, Lord's Paradox, Philosophical Questions, Classics, Missing Data, Causal Inference, Epidemiology, Bradford Hill Criteria And Their Legacy. Time-series Models, Modeling ordinal data and Modeling proportions data (in the 0-1 interval).
 2. [BMJ Research Methods and Reporting](https://www.bmj.com/research/research-methods-and-reporting)
 3. [30 pharmacoepidemiology must-reads](https://www.linkedin.com/pulse/30-pharmacoepidemiology-must-reads-anton-pottegård/)
 
