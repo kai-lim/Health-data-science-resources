@@ -11,6 +11,7 @@ A list of resources related to health data science, population health and clinic
 ## Open datasets
 1. [NHS England Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 2. [Fingertips | Public health data](https://fingertips.phe.org.uk/)
+3. [WHO GLobal Health Observatory](https://www.who.int/data/gho)
 
 ## Reading List
 1. [Biostatistics reading list](https://github.com/JB-Statistical-Consulting/biostatistics) by Justin Belair, covering topics such as:
