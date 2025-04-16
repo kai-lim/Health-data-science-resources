@@ -27,6 +27,7 @@ A list of resources related to health data science, population health and clinic
 
 
 
-
+## Health economic modelling
+1. Key publications to learn R for Health Economic Evaluation
 
 
