@@ -29,7 +29,10 @@ A list of resources related to health data science, population health and clinic
 1. [Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries
 ](https://arxiv.org/abs/2505.21801)
 2. [GenAI in RWE: Innovation Meets Regulation](https://www.linkedin.com/feed/update/urn:li:activity:7336709184165453824/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7336709184165453824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
-3. [BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text](https://arxiv.org/abs/2504.19467)  [Linked post](https://www.linkedin.com/feed/update/urn:li:activity:7331891588723335168/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7331891588723335168%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+3. [BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text](https://arxiv.org/abs/2504.19467)  + [Linked post](https://www.linkedin.com/feed/update/urn:li:activity:7331891588723335168/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7331891588723335168%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+### RAG
+1. [RAG crash course](https://www.linkedin.com/feed/update/urn:li:activity:7317213531165114368/)
 
 ## Health economic modelling
 1. [Key publications to learn R for Health Economic Evaluation](https://github.com/kai-lim/Health-data-science-resources/blob/main/health_economics/HEOR_literature.pdf)
