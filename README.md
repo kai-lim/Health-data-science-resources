@@ -25,7 +25,11 @@ A list of resources related to health data science, population health and clinic
   - Summary [here](https://github.com/kai-lim/Health-data-science-resources/blob/6631d13b7e0e2c101f14d85ec8d700635d952cd0/AI%20and%20LLM/Training%20Language%20Models%20to%20Follow%20Instructions%20with%20Human%20Feedback.md)
 3. [Using LLM as Judge](https://arxiv.org/abs/2306.05685)
 
-
+### LLMs for RWE
+1. [Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries
+](https://arxiv.org/abs/2505.21801)
+2. [GenAI in RWE: Innovation Meets Regulation](https://www.linkedin.com/feed/update/urn:li:activity:7336709184165453824/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7336709184165453824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+3. [BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text](https://arxiv.org/abs/2504.19467)  [Linked post](https://www.linkedin.com/feed/update/urn:li:activity:7331891588723335168/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7331891588723335168%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ## Health economic modelling
 1. [Key publications to learn R for Health Economic Evaluation](https://github.com/kai-lim/Health-data-science-resources/blob/main/health_economics/HEOR_literature.pdf)
